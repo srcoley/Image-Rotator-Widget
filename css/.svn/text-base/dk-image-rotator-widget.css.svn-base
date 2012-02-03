@@ -1,0 +1,21 @@
+.irw-widget {
+	height: 20px;
+	overflow: hidden;
+}
+
+.irw-widget.loading {
+	background: url('../images/loading.gif') center center no-repeat;
+}
+
+.irw-slider {
+
+}
+
+.irw-slider li {
+	display: inline-block;
+}
+
+.ie7 .irw-slider li {
+	display: block;
+	float: left;
+}
